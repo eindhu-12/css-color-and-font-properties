@@ -1,0 +1,66 @@
+body{
+    background-image: url(https://images.axios.com/q7CXTGATrYZtuQj8i84OAX7iIQA=/0x756:4032x3024/1920x1080/2023/06/15/1686873359343.jpg?w=1920);
+    background-size: cover;
+}
+.div1{
+    background-color: aquamarine;
+    font-size: 20px;
+    font-family:monospace;
+    font-weight: 500;
+    font-style: italic;
+}
+.div2{
+    font-size:20px;
+    text-align: right;
+    text-decoration:underline;
+    text-decoration-style: solid;
+    text-decoration-color:darkblue ;
+    text-transform: uppercase;
+    text-shadow: 3px 3px red;
+}
+.div3   {
+    font-size:20px;
+    text-align: left;
+    text-decoration:overline;
+    text-decoration-style: solid;
+    text-decoration-color:brown ;
+    text-transform: uppercase;
+    text-shadow: 3px 3px yellow;
+}
+
+.divimg{
+    width: 350px;
+    padding-top: 10px;
+}
+.img1{
+    border:2px  solid;
+    box-shadow: 2px 2px  white;
+    width: 200px;
+
+}
+.img2{
+    border-width: 300px;
+    border:2px solid;
+    width: 200px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    box-shadow: 2px 2px  white;
+
+}
+.img3{
+    border:2px solid;
+    box-shadow: 4px 4px white;
+    width: 200px;
+    margin-bottom: 25px;
+
+}
+
+.para{
+    width: 300px;
+    box-shadow:5px 5px 3px brown;
+    text-wrap: wrap;
+    background:linear-gradient(to bottom, skyblue,lightpink,aliceblue,lavender);
+}
+
